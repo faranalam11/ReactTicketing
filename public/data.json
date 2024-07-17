@@ -1,0 +1,34 @@
+[
+    {
+        "email": "somnath678@gmail.com",
+        "through": "INBOX",
+        "subject": "Linkedin-Mihul Singh Sol...",
+        "status": "RES",
+        "priority": "L",
+        "date": "2024-06-20"
+    },
+    {
+        "email": "himanshu.gupta@kapture.com",
+        "through": "INBOX",
+        "subject": "Re: Test Email",
+        "status": "RES",
+        "priority": "L",
+        "date": "2024-07-05"
+    },
+    {
+        "email": "priya.saxena@gmail.com",
+        "through": "INBOX",
+        "subject": "Raised a concern",
+        "status": "RES",
+        "priority": "L",
+        "date": "2024-07-03"
+    },
+    {
+        "email": "faran.bro@gmail.com",
+        "through": "INBOX",
+        "subject": "had a concern",
+        "status": "RES",
+        "priority": "H",
+        "date": "2024-07-03"
+    }
+]
